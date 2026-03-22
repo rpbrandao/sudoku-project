@@ -1,0 +1,5 @@
+# Sudoku project — no external dependencies needed!
+# Python standard library only: tkinter, sys, os, time, dataclasses
+
+# Optional: for running tests
+pytest>=8.0.0
